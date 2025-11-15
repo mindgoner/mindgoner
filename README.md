@@ -1,5 +1,5 @@
 <img 
-	src="https://raw.githubusercontent.com/mindgoner/mindgoner/refs/heads/master/github-bg.png"
+	src="https://raw.githubusercontent.com/mindgoner/mindgoner/master/github-bg.png"
 	alt="Bartosz Bieniek"
 />
 
