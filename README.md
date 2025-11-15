@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/u/83843566?v=4" 
+    src="https://github.com/mindgoner/mindgoner/blob/master/profile.png" 
     width="140" 
     height="140" 
     style="border-radius: 50%;"
