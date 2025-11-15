@@ -1,23 +1,7 @@
-
-<p align="center">
-  <img 
-    src="https://github.com/mindgoner/mindgoner/blob/master/profile.png" 
-    width="140" 
-    height="140" 
-    style="border-radius: 50%;"
-  />
-</p>
-
-<h2 align="center" style="font-size: 2em; font-weight: bold; margin-top: 10px;">
-  <strong>Bartosz "Mindgoner" Bieniek</strong>
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue" />
-  <img src="https://img.shields.io/badge/DevOps-Enthusiast-green" />
-  <img src="https://img.shields.io/badge/Automation-Engineer-orange" />
-</p>
-
+<img 
+	src="https://raw.githubusercontent.com/mindgoner/mindgoner/refs/heads/master/github-bg.png"
+	alt="Bartosz Bieniek"
+/>
 
 ### 💬 Programming Languages
 <div class="badge-grid">
